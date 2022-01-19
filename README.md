@@ -1,2 +1,2 @@
 # cart-api-communication
-React-Redux api communication with firebase server
+React-Redux front-end with api communication to firebase server
